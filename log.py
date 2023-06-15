@@ -1,2 +1,2 @@
 def mensagem_log(mensagem):
-    return 'mensagem event 2 com git actions: ' + mensagem
+    return 'Mensagem após ter enviado o código para o git actions: ' + mensagem
